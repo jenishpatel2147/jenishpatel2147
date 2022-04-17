@@ -2,7 +2,7 @@
 
 
 Hi, my name is Jenish. Welcome to my Github Profile! I'm a 3rd year Computer Science undergrad student at the University of Waterloo. 
-I'm also seeking Winter 2022 and Summer 2022 internships, so please feel free to connect with me :)
+I'm also seeking 2023 internships, so please feel free to connect with me :)
 
 # My Plans
 
